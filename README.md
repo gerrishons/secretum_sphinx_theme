@@ -1,6 +1,6 @@
-# Sphinx RTD Theme Dark Mode
+# Secretum Sphinx RTD Theme Dark Mode
 
-[![Build Status](https://travis-ci.com/MrDogeBro/sphinx_rtd_dark_mode.svg?branch=main)](https://travis-ci.com/github/MrDogeBro/content_filter) [![PyPi version](https://img.shields.io/pypi/v/sphinx-rtd-dark-mode.svg)](https://pypi.python.org/pypi/sphinx-rtd-dark-mode/) [![PyPI pyversions](https://img.shields.io/pypi/pyversions/sphinx-rtd-dark-mode.svg)](https://pypi.python.org/pypi/sphinx-rtd-dark-mode/) [![PyPI download month](https://img.shields.io/pypi/dm/sphinx-rtd-dark-mode.svg)](https://pypi.python.org/pypi/sphinx-rtd-dark-mode/) [![License](https://img.shields.io/github/license/MrDogeBro/sphinx_rtd_dark_mode.svg)](https://github.com/MrDogeBro/sphinx_rtd_dark_mode/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![PyPi version](https://img.shields.io/pypi/v/secretum-sphinx-theme.svg)](https://pypi.python.org/pypi/secretum-sphinx-theme/) [![PyPI pyversions](https://img.shields.io/pypi/pyversions/secretum-sphinx-theme.svg)](https://pypi.python.org/pypi/secretum-sphinx-theme/) [![PyPI download month](https://img.shields.io/pypi/dm/secretum-sphinx-theme.svg)](https://pypi.python.org/pypi/secretum-sphinx-theme/)
 
 This Sphinx extension adds a toggleable dark mode to the Read the Docs theme.
 A little icon is added in the bottom right hand corner which allows the user
