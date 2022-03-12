@@ -53,4 +53,4 @@ default_dark_mode = False
 
 ## License
 
-The Sphinx RTD Dark Mode module for Python is licensed under an [MIT license](https://github.com/secretum-inc/secretum_sphinx_theme/blob/main/LICENSE).
+The Sphinx RTD Dark Mode module for Python is licensed under an [MIT license](https://github.com/scalabli/secretum_sphinx_theme/blob/main/LICENSE).

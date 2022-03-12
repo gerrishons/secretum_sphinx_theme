@@ -16,7 +16,7 @@ $(document).ready(() => {
 
   $('footer').html(
     $('footer').html() +
-      'Maintained by <a href="https://github.com/secretum-inc">Secretum Inc.</a>.'
+      'Made with ❤️ by <a href="https://github.com/scalabli">Scalabl!.</a>.'
   );
 });
 

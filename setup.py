@@ -12,8 +12,8 @@ setuptools.setup(
     description=secretum_sphinx_theme.__description__,
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/secretum-inc/secretum_sphinx_theme",
-    download_url=f"https://github.com/secretum-inc/secretum_sphinx_theme/archive/v{secretum_sphinx_theme.__version__}.tar.gz",
+    url="https://github.com/scalabli/secretum_sphinx_theme",
+    download_url=f"https://github.com/scalabli/secretum_sphinx_theme/archive/v{secretum_sphinx_theme.__version__}.tar.gz",
     packages=setuptools.find_packages(exclude=["tests"]),
     package_data={
         "secretum_sphinx_theme": [
@@ -24,7 +24,7 @@ setuptools.setup(
             "static/dark_mode_js/default_dark.js",
         ]
     },
-    license=sphinx_rtd_dark_mode.__license__,
+    license=secretum_sphinx_theme.__license__,
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Natural Language :: English",
